@@ -1,0 +1,10 @@
+Source Code for this Section
+This lecture holds the source code thats done in this section.
+
+The source code is present in a different branch - distributedQuerying.
+
+Here is the source code Github link:
+https://github.com/dilipsundarraj1/kafka-streams-api-for-developers/tree/distributedQuerying
+
+Resources for this lecture:
+source-code-distributed-queryig.zip

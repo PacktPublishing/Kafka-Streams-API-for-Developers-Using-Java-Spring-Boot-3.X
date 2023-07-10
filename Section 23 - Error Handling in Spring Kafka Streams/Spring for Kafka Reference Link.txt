@@ -1,0 +1,2 @@
+Spring for Kafka Reference Link:
+https://docs.spring.io/spring-kafka/reference/html/#streams-deser-recovery
